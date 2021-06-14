@@ -1,0 +1,5 @@
+data.zip filter=lfs diff=lfs merge=lfs -text
+data.zi filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+movies_metadata.csv filter=lfs diff=lfs merge=lfs -text
+ratings.csv filter=lfs diff=lfs merge=lfs -text
